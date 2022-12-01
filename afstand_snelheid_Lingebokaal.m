@@ -1,5 +1,5 @@
 ##pkg load io;
-
+%DIT IS EEN TEST REGEL (Patrick)
 bronbestand = "C:\\Users\\matth\\Downloads\\Staalmannen_Markregatta_2019.xlsx";
 ruw = xlsread (bronbestand, 'Lingebokaal 2019', 'b2:h1502');
 bronbestand1 = "C:\\Users\\matth\\Downloads\\Gladiatores_Ertveld_experience.xlsx";
